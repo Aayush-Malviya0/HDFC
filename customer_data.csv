@@ -1,0 +1,101 @@
+customer_id,customer_name,email,phone,city,state,country
+1,Aarav Sharma,aarav_sharma@example.com,+91-9000000001,Mumbai,Maharashtra,India
+2,Diya Patel,diya_patel@example.com,+91-9000000002,Pune,Maharashtra,India
+3,Rohan Mehta,rohan_mehta@example.com,+91-9000000003,Delhi,Delhi,India
+4,Ananya Singh,ananya_singh@example.com,+91-9000000004,Bengaluru,Karnataka,India
+5,Kabir Khan,kabir_khan@example.com,+91-9000000005,Ahmedabad,Gujarat,India
+6,Isha Gupta,isha_gupta@example.com,+91-9000000006,Hyderabad,Telangana,India
+7,Vivaan Shah,vivaan_shah@example.com,+91-9000000007,Chennai,Tamil Nadu,India
+8,Meera Joshi,meera_joshi@example.com,+91-9000000008,Kolkata,West Bengal,India
+9,Arjun Nair,arjun_nair@example.com,+91-9000000009,Jaipur,Rajasthan,India
+10,Sara Khan,sara_khan@example.com,+91-9000000010,Surat,Gujarat,India
+11,Neha Verma,neha_verma@example.com,+91-9000000011,Mumbai,Maharashtra,India
+12,Aditya Rao,aditya_rao@example.com,+91-9000000012,Pune,Maharashtra,India
+13,Priya Desai,priya_desai@example.com,+91-9000000013,Delhi,Delhi,India
+14,Rahul Kapoor,rahul_kapoor@example.com,+91-9000000014,Bengaluru,Karnataka,India
+15,Tanya Malhotra,tanya_malhotra@example.com,+91-9000000015,Ahmedabad,Gujarat,India
+16,Karan Shah,karan_shah@example.com,+91-9000000016,Hyderabad,Telangana,India
+17,Sneha Iyer,sneha_iyer@example.com,+91-9000000017,Chennai,Tamil Nadu,India
+18,Dev Patel,dev_patel@example.com,+91-9000000018,Kolkata,West Bengal,India
+19,Nisha Mehta,nisha_mehta@example.com,+91-9000000019,Jaipur,Rajasthan,India
+20,Vikram Singh,vikram_singh@example.com,+91-9000000020,Surat,Gujarat,India
+21,Aarav Sharma,aarav_sharma@example.com,+91-9000000021,Mumbai,Maharashtra,India
+22,Diya Patel,diya_patel@example.com,+91-9000000022,Pune,Maharashtra,India
+23,Rohan Mehta,rohan_mehta@example.com,+91-9000000023,Delhi,Delhi,India
+24,Ananya Singh,ananya_singh@example.com,+91-9000000024,Bengaluru,Karnataka,India
+25,Kabir Khan,kabir_khan@example.com,+91-9000000025,Ahmedabad,Gujarat,India
+26,Isha Gupta,isha_gupta@example.com,+91-9000000026,Hyderabad,Telangana,India
+27,Vivaan Shah,vivaan_shah@example.com,+91-9000000027,Chennai,Tamil Nadu,India
+28,Meera Joshi,meera_joshi@example.com,+91-9000000028,Kolkata,West Bengal,India
+29,Arjun Nair,arjun_nair@example.com,+91-9000000029,Jaipur,Rajasthan,India
+30,Sara Khan,sara_khan@example.com,+91-9000000030,Surat,Gujarat,India
+31,Neha Verma,neha_verma@example.com,+91-9000000031,Mumbai,Maharashtra,India
+32,Aditya Rao,aditya_rao@example.com,+91-9000000032,Pune,Maharashtra,India
+33,Priya Desai,priya_desai@example.com,+91-9000000033,Delhi,Delhi,India
+34,Rahul Kapoor,rahul_kapoor@example.com,+91-9000000034,Bengaluru,Karnataka,India
+35,Tanya Malhotra,tanya_malhotra@example.com,+91-9000000035,Ahmedabad,Gujarat,India
+36,Karan Shah,karan_shah@example.com,+91-9000000036,Hyderabad,Telangana,India
+37,Sneha Iyer,sneha_iyer@example.com,+91-9000000037,Chennai,Tamil Nadu,India
+38,Dev Patel,dev_patel@example.com,+91-9000000038,Kolkata,West Bengal,India
+39,Nisha Mehta,nisha_mehta@example.com,+91-9000000039,Jaipur,Rajasthan,India
+40,Vikram Singh,vikram_singh@example.com,+91-9000000040,Surat,Gujarat,India
+41,Aarav Sharma,aarav_sharma@example.com,+91-9000000041,Mumbai,Maharashtra,India
+42,Diya Patel,diya_patel@example.com,+91-9000000042,Pune,Maharashtra,India
+43,Rohan Mehta,rohan_mehta@example.com,+91-9000000043,Delhi,Delhi,India
+44,Ananya Singh,ananya_singh@example.com,+91-9000000044,Bengaluru,Karnataka,India
+45,Kabir Khan,kabir_khan@example.com,+91-9000000045,Ahmedabad,Gujarat,India
+46,Isha Gupta,isha_gupta@example.com,+91-9000000046,Hyderabad,Telangana,India
+47,Vivaan Shah,vivaan_shah@example.com,+91-9000000047,Chennai,Tamil Nadu,India
+48,Meera Joshi,meera_joshi@example.com,+91-9000000048,Kolkata,West Bengal,India
+49,Arjun Nair,arjun_nair@example.com,+91-9000000049,Jaipur,Rajasthan,India
+50,Sara Khan,sara_khan@example.com,+91-9000000050,Surat,Gujarat,India
+51,Neha Verma,neha_verma@example.com,+91-9000000051,Mumbai,Maharashtra,India
+52,Aditya Rao,aditya_rao@example.com,+91-9000000052,Pune,Maharashtra,India
+53,Priya Desai,priya_desai@example.com,+91-9000000053,Delhi,Delhi,India
+54,Rahul Kapoor,rahul_kapoor@example.com,+91-9000000054,Bengaluru,Karnataka,India
+55,Tanya Malhotra,tanya_malhotra@example.com,+91-9000000055,Ahmedabad,Gujarat,India
+56,Karan Shah,karan_shah@example.com,+91-9000000056,Hyderabad,Telangana,India
+57,Sneha Iyer,sneha_iyer@example.com,+91-9000000057,Chennai,Tamil Nadu,India
+58,Dev Patel,dev_patel@example.com,+91-9000000058,Kolkata,West Bengal,India
+59,Nisha Mehta,nisha_mehta@example.com,+91-9000000059,Jaipur,Rajasthan,India
+60,Vikram Singh,vikram_singh@example.com,+91-9000000060,Surat,Gujarat,India
+61,Aarav Sharma,aarav_sharma@example.com,+91-9000000061,Mumbai,Maharashtra,India
+62,Diya Patel,diya_patel@example.com,+91-9000000062,Pune,Maharashtra,India
+63,Rohan Mehta,rohan_mehta@example.com,+91-9000000063,Delhi,Delhi,India
+64,Ananya Singh,ananya_singh@example.com,+91-9000000064,Bengaluru,Karnataka,India
+65,Kabir Khan,kabir_khan@example.com,+91-9000000065,Ahmedabad,Gujarat,India
+66,Isha Gupta,isha_gupta@example.com,+91-9000000066,Hyderabad,Telangana,India
+67,Vivaan Shah,vivaan_shah@example.com,+91-9000000067,Chennai,Tamil Nadu,India
+68,Meera Joshi,meera_joshi@example.com,+91-9000000068,Kolkata,West Bengal,India
+69,Arjun Nair,arjun_nair@example.com,+91-9000000069,Jaipur,Rajasthan,India
+70,Sara Khan,sara_khan@example.com,+91-9000000070,Surat,Gujarat,India
+71,Neha Verma,neha_verma@example.com,+91-9000000071,Mumbai,Maharashtra,India
+72,Aditya Rao,aditya_rao@example.com,+91-9000000072,Pune,Maharashtra,India
+73,Priya Desai,priya_desai@example.com,+91-9000000073,Delhi,Delhi,India
+74,Rahul Kapoor,rahul_kapoor@example.com,+91-9000000074,Bengaluru,Karnataka,India
+75,Tanya Malhotra,tanya_malhotra@example.com,+91-9000000075,Ahmedabad,Gujarat,India
+76,Karan Shah,karan_shah@example.com,+91-9000000076,Hyderabad,Telangana,India
+77,Sneha Iyer,sneha_iyer@example.com,+91-9000000077,Chennai,Tamil Nadu,India
+78,Dev Patel,dev_patel@example.com,+91-9000000078,Kolkata,West Bengal,India
+79,Nisha Mehta,nisha_mehta@example.com,+91-9000000079,Jaipur,Rajasthan,India
+80,Vikram Singh,vikram_singh@example.com,+91-9000000080,Surat,Gujarat,India
+81,Aarav Sharma,aarav_sharma@example.com,+91-9000000081,Mumbai,Maharashtra,India
+82,Diya Patel,diya_patel@example.com,+91-9000000082,Pune,Maharashtra,India
+83,Rohan Mehta,rohan_mehta@example.com,+91-9000000083,Delhi,Delhi,India
+84,Ananya Singh,ananya_singh@example.com,+91-9000000084,Bengaluru,Karnataka,India
+85,Kabir Khan,kabir_khan@example.com,+91-9000000085,Ahmedabad,Gujarat,India
+86,Isha Gupta,isha_gupta@example.com,+91-9000000086,Hyderabad,Telangana,India
+87,Vivaan Shah,vivaan_shah@example.com,+91-9000000087,Chennai,Tamil Nadu,India
+88,Meera Joshi,meera_joshi@example.com,+91-9000000088,Kolkata,West Bengal,India
+89,Arjun Nair,arjun_nair@example.com,+91-9000000089,Jaipur,Rajasthan,India
+90,Sara Khan,sara_khan@example.com,+91-9000000090,Surat,Gujarat,India
+91,Aarav Sharma,aarav.sharma@example.com,+91-9000000001,Mumbai,Maharashtra,India
+92,Diya Patel,,+91 9000000002,Pune,Maharashtra,India
+93A,Rohan Mehta,rohan.mehta@example.com,+91-9000000003,Delhi,Delhi,India
+94,,ananya.singh@example.com,+91-9000000004,Bengaluru,Karnataka,India
+95,Kabir Khan,kabir.khan@example.com,not-a-phone,Ahmedabad,Gujarat,India
+96,Isha Gupta,isha.gupta@example.com,+91-9000000006,mumbai,maharashtra,india
+97,Vivaan Shah,vivaan.shah@example.com,+91-9000000007,UnknownCity,UnknownState,India
+98,Meera Joshi,meera.joshi@example.com,+91-9000000008,Pune,Maharashtra,
+99,Arjun Nair,arjun.nair@example.com,+91-9000000009,Chennai,Tamil Nadu,IND
+100,Sara Khan,sara.khan@example.com,1234567890,Jaipur,Rajasthan,India
